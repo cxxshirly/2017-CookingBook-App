@@ -12,6 +12,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void changeUp(){
+        // Testing
+    }
+
+    private void changeUp2(){
+        // Testing
+    }
+
+    private void print(){
 
     }
 }
