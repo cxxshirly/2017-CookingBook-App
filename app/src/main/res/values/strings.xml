@@ -1,3 +1,60 @@
 <resources>
     <string name="app_name">ChenFinalProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Ramen">
+                There’s nothing like a hearty, warming soup in winter. Enter Japanese ramen! In this delicious dish, we’re featuring fresh ramen from Sun Noodle, America’s premier noodle manufacturer.For thirty years, Sun Noodle has been making the best-tasting noodles available on the market.Custom designed just for Blue Apron, the springy strands of heaven you’ll be using here pair perfectly with nutritious choy sum greens,succulent chicken, soft-boiled eggs and a traditional miso-based broth.
+    </string>
+
+    <string name="ramen_ingre">
+Yield: 2 Servings\n
+INGREDIENTS\n
+
+2 chicken breasts (boneless, skin-on)* \n
+kosher salt and freshly-ground black pepper, to season\n
+1 tbsp unsalted butter\n
+2 tsp sesame or vegetable oil\n
+2 tsp fresh ginger, minced\n
+3 tsp fresh garlic, minced  \n
+3 tbsp low-sodium soy sauce\n
+2 tbsp mirin\n
+4 cups rich chicken stock\n
+1 oz dried shitake mushrooms (or 1/2 cup fresh)\n
+1-2 tsp sea salt, to taste\n
+2 large eggs\n
+1/2 cup scallions, sliced\n
+2 (3 oz) packs dried ramen noodles\n
+optional: fresh jalapeño slices, for serving"</string>
+
+    <string name="ramen_ingre_for_1">
+Yield: 1 Serving\n
+INGREDIENTS\n
+
+1 chicken breasts (boneless, skin-on)* \n
+kosher salt and freshly-ground black pepper, to season\n
+1/2 tbsp unsalted butter\n
+1 tsp sesame or vegetable oil\n
+1 tsp fresh ginger, minced\n
+1.5 tsp fresh garlic, minced  \n
+1.5 tbsp low-sodium soy sauce\n
+1 tbsp mirin\n
+2 cups rich chicken stock\n
+1/2 oz dried shitake mushrooms (or 1/2 cup fresh)\n
+1 tsp sea salt, to taste\n
+1 large eggs\n
+1/2 cup scallions, sliced\n
+1 (3 oz) packs dried ramen noodles\n
+optional: fresh jalapeño slices, for serving"</string>
+
+    <string name="ramen_step1">1. Cook the chicken*:\n Preheat the oven to 375 degrees. Season the chicken generously with salt and pepper.\n Add the chicken, skin-side down about 5-7 minutes. Flip the chicken over and cook for another 4-5 minutes.\n
+</string>
+
+    <string name="ramen_step2">
+    \n2. Make the ramen broth: Heat the oil in a large pot over medium heat, until shimmering. Add the garlic and ginger, and cook for a few minutes until softened. Add the soy sauce and mirin, and stir to combine. Cook for another minute. Add the stock, cover, and bring to boil. Remove the lid, and let simmer uncovered for 5 minutes, then add the dried mushrooms. Simmer gently for another 10 minutes, and season with salt, to taste. \n
+    \n3. Make the soft-boiled eggs: Fill a pot with enough water to cover the eggs, and bring to a boil. Gently lower the eggs (still cold from the fridge) into the boiling water, and let simmer for 7 minutes (for a slightly-runny yoke) or 8 minutes (for a soft, but set-up yoke). \n
+      \n  4. Meanwhile, fill a large bowl with ice water. When the timer finishes, transfer the eggs to the ice bath to stop the cooking process. Wait at least 5 minutes, or until cool enough to handle, then carefully peel away the shell and slice in half, lengthwise. Set aside until ready to serve. \n
+        \n5. Assemble the ramen bowls: Meanwhile, chop the scallions and jalapeño (if using). Slice the chicken into thin pieces. Set aside. When the eggs finish cooking, add the ramen noodles to the boiling water. Cook for 2-3 minutes, until soft, then divide the noodles into two large bowls. Add the sliced chicken and the ramen broth. Top with the fresh scallions, jalapeño and the soft boiled egg. Serve immediately. \n</string>
+
+
 </resources>

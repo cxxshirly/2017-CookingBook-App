@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.xu.chenfinalproject.DessertActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="Top Recipes"
+                android:gravity="center"
+                android:background="@android:color/white"
+                android:textColor="@android:color/black"
+                android:textSize="22dp"
+                />
+
+            <ImageView
+                android:id="@+id/DessertActivity_imageview1"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:src="@mipmap/download10"
+                android:scaleType="centerCrop"
+                />
+            <TextView
+                android:id="@+id/SoupActivity_textview1"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:text="Protein Ice Cream
+            Total:30 min"
+                android:gravity="right"
+                android:padding="10dp"
+                android:textSize="20dp"
+                android:background="@android:color/background_light"
+                android:textColor="@android:color/black"
+                />
+
+            <ImageView
+                android:id="@+id/SoupActivity_imageview2"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/download9"
+                />
+            <TextView
+                android:id="@+id/SoupActivity_textview2"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:gravity="right"
+                android:text="Fruit and Nut Chocolate Dessert
+Total:15 min"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:background="@android:color/background_light"
+                android:textColor="@android:color/black"/>
+
+            <ImageView
+                android:id="@+id/SoupActivity_imageview3"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/download8"
+                />
+            <TextView
+                android:id="@+id/SoupActivity_textview3"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:text="Simple Tasty Dessert
+Total:20 min"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:gravity="right"
+                android:background="@android:color/background_light"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@android:color/white"
+                android:text="Strawberry Panna Cotta"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@android:color/white"
+                android:text="Raspberry chocolate bundt
+"
+                android:textColor="@android:color/black"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@android:color/white"
+                android:text="Berry Chocolate cake"
+                android:textColor="@android:color/black"/>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_height="520dp"
+    android:layout_gravity="center"
+    android:background="@android:color/black">
+
+
+    <TextView
+        android:id="@+id/dialog_custom_tv4"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:text="Serving for 4"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:padding="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/ramen_ingre"
+            android:textColor="@android:color/white"
+            android:textSize="15dp"
+            />
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:id="@+id/quiz_ok4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="OK"
+        />
+
+</LinearLayout>
